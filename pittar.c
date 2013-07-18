@@ -1,6 +1,6 @@
 /*
  * Yuriy Koziy
- * CS1550
+ * yuriykoziy@hotmail.com
  * Pitt archiver program
  */
 
