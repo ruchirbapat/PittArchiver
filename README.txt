@@ -1,5 +1,4 @@
 Yuriy Koziy
-yuriykoziy@hotmail.com
 
 Pitt Archiver
 
